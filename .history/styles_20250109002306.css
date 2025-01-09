@@ -140,8 +140,7 @@
 @media screen and (max-width: 768px) {
     .card {
         flex-direction: column;
-        height: 600px;
-        width: 350px;
+        width: 90%;
     }
 
     .img-container {
@@ -150,10 +149,9 @@
         border-radius: 10px 10px 0 0;
         background-image: url('./assets/images/image-product-mobile.jpg');
     }
-    .card-content {
-        width: 100%;
-        height:70%;
-        padding: 1rem;
+
+    .img-container img {
+        border-radius: 10px 10px 0 0;
     }
 
 }   
