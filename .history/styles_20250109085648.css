@@ -122,16 +122,12 @@
 
 }
 
-/* .addtocartbtn p {
+.addtocartbtn p {
     color: white;
     font-weight: 700;
     font-size: .9rem;
     padding-left: 8px;
 
-} */
-
-.addtocartbtn img {
-    margin-right: 8px;
 }
 
 .addtocartbtn:hover {
